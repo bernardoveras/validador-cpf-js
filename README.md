@@ -1,4 +1,4 @@
-# Valide CPF's!
+# Validator de CPF!
 
 #### Aplicação de validador de CPF desenvolvida a partir das instruções do curso ["Curso de JavaScript e TypeScript do básico ao avançado 2021"](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) do [Luiz Otávio Miranda](https://github.com/luizomf)
 
